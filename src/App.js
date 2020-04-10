@@ -17,7 +17,7 @@ function App() {
 
   let portStyleOne = {
     position: "absolute",
-    top: "0px",
+    top: "2px",
     height: "40vh",
     left: "5%",
     width: "90%",
