@@ -171,7 +171,7 @@ function App() {
               className="skills-image"
               src="https://freecodecampassets.s3.us-east-2.amazonaws.com/Portfolio+Assets+1/bootstrap/bootstrapTransparentTest2.png"
             ></img>
-            <div>Bootstrap 4</div>
+            <div>Bootstrap4</div>
           </div>
           <div className="skills-holder">
             <img
